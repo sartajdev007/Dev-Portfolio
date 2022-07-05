@@ -13,6 +13,14 @@ h1 {
     background-repeat: no-repeat;
 }
 
+.second-section {
+    display: flex;
+    margin-top: 10%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 .half-width {
     width: 50%;
     padding-left: 5%;
